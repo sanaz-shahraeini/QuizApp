@@ -1,1 +1,1 @@
-Quizz Application using OOP in Python
+Quiz Application using OOP in Python
